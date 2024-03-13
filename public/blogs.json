@@ -1,53 +1,53 @@
 [
     {
       "id": "001",
-      "cover": "https://iili.io/JW0IYve.jpg",
+      "cover": "https://iili.io/JW0OnQj.jpg",
       "title": "The Mystery of the Sapphire Skull",
       "author": "Eleanor Nightingale",
-      "author_img": "https://iili.io/JW05F5P.jpg",
+      "author_img": "https://iili.io/JW0hphx.png",
       "posted_date": "2024-03-12",
       "reading_time": "45 minutes",
-      "hashtags": ["mystery", "adventure", "thriller"]
+      "hashtags": ["mystery"]
     },
     {
       "id": "002",
-      "cover": "https://iili.io/JW0uvrN.jpg",
+      "cover": "https://iili.io/JW0OxCx.png",
       "title": "Secrets of the Lost Temple",
       "author": "Maximilian Stone",
-      "author_img": "https://iili.io/JW0RDbe.jpg",
+      "author_img": "https://iili.io/JW0jJEB.jpg",
       "posted_date": "2024-03-11",
       "reading_time": "60 minutes",
-      "hashtags": ["archaeology", "ancientcivilizations", "adventure"]
+      "hashtags": ["archaeology"]
     },
     {
       "id": "003",
-      "cover": "https://iili.io/JW0AA4p.jpg",
+      "cover": "https://iili.io/JW0OI4V.png",
       "title": "Echoes of the Forbidden Forest",
       "author": "Aria Nightshade",
-      "author_img": "https://iili.io/JW0RMDg.jpg",
+      "author_img": "https://iili.io/JW0jzEN.jpg",
       "posted_date": "2024-03-10",
       "reading_time": "50 minutes",
-      "hashtags": ["fantasy", "magic", "enchanted"]
+      "hashtags": ["fantasy"]
     },
     {
       "id": "004",
-      "cover": "https://iili.io/JW0Alun.jpg",
+      "cover": "https://iili.io/JW0ORv1.jpg",
       "title": "The Curse of Crimson Manor",
       "author": "Victor Thornhill",
-      "author_img": "https://iili.io/JW0RzH7.jpg",
+      "author_img": "https://iili.io/JW0jXyu.jpg",
       "posted_date": "2024-03-09",
       "reading_time": "55 minutes",
-      "hashtags": ["horror", "mystery", "gothic"]
+      "hashtags": ["horror"]
     },
     {
       "id": "005",
-      "cover": "https://iili.io/JW0AMG4.jpg",
+      "cover": "https://iili.io/JW0OI4V.png",
       "title": "Starlight Saga: The Crystal Chronicles",
       "author": "Luna Silvermoon",
-      "author_img": "https://iili.io/JW0ArFV.jpg",
+      "author_img": "https://iili.io/JW0jJEB.jpg",
       "posted_date": "2024-03-08",
       "reading_time": "70 minutes",
-      "hashtags": ["sci-fi", "spaceopera", "adventure"]
+      "hashtags": ["sci-fi"]
     }
   ]
   

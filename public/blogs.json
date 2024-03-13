@@ -1,0 +1,53 @@
+[
+    {
+      "id": "001",
+      "cover": "https://iili.io/JW0IYve.jpg",
+      "title": "The Mystery of the Sapphire Skull",
+      "author": "Eleanor Nightingale",
+      "author_img": "https://iili.io/JW05F5P.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": "45 minutes",
+      "hashtags": ["mystery", "adventure", "thriller"]
+    },
+    {
+      "id": "002",
+      "cover": "https://iili.io/JW0uvrN.jpg",
+      "title": "Secrets of the Lost Temple",
+      "author": "Maximilian Stone",
+      "author_img": "https://iili.io/JW0RDbe.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": "60 minutes",
+      "hashtags": ["archaeology", "ancientcivilizations", "adventure"]
+    },
+    {
+      "id": "003",
+      "cover": "https://iili.io/JW0AA4p.jpg",
+      "title": "Echoes of the Forbidden Forest",
+      "author": "Aria Nightshade",
+      "author_img": "https://iili.io/JW0RMDg.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": "50 minutes",
+      "hashtags": ["fantasy", "magic", "enchanted"]
+    },
+    {
+      "id": "004",
+      "cover": "https://iili.io/JW0Alun.jpg",
+      "title": "The Curse of Crimson Manor",
+      "author": "Victor Thornhill",
+      "author_img": "https://iili.io/JW0RzH7.jpg",
+      "posted_date": "2024-03-09",
+      "reading_time": "55 minutes",
+      "hashtags": ["horror", "mystery", "gothic"]
+    },
+    {
+      "id": "005",
+      "cover": "https://iili.io/JW0AMG4.jpg",
+      "title": "Starlight Saga: The Crystal Chronicles",
+      "author": "Luna Silvermoon",
+      "author_img": "https://iili.io/JW0ArFV.jpg",
+      "posted_date": "2024-03-08",
+      "reading_time": "70 minutes",
+      "hashtags": ["sci-fi", "spaceopera", "adventure"]
+    }
+  ]
+  
